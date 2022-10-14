@@ -1,5 +1,5 @@
 {
-  "name": "dvs",
+  "name": "dvs-lib",
   "version": "1.0.11",
   "description": "A nuxt 3 library",
   "main": "nuxt.js",
