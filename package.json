@@ -1,8 +1,21 @@
 {
+  "name": "temp",
   "version": "1.0.0",
   "description": "A nuxt 3 library",
   "main": "nuxt.js",
-  "private": true,
+  "peerDependencies": {
+    "nuxt3": "lates"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DayvsonDVS/components-lib-dvs.git"
+  },
+  "author": "dayvson_dvs <dayvson_dvs@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DayvsonDVS/components-lib-dvs/issues"
+  },
+  "homepage": "https://github.com/DayvsonDVS/components-lib-dvs/#readme",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
