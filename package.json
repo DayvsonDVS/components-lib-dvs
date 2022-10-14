@@ -1,6 +1,6 @@
 {
-  "name": "temp",
-  "version": "1.0.0",
+  "name": "components-lib-dvs",
+  "version": "1.0.10",
   "description": "A nuxt 3 library",
   "main": "nuxt.js",
   "peerDependencies": {
